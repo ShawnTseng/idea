@@ -14,3 +14,7 @@
     - 總體經濟數據
     - 主流幣種學習
     - Defi工具介紹
+
+## Web3 賽道
+- [2023台灣區塊鏈產業地圖](https://map.bcda.tw/)
+- [台灣區塊鏈產業地圖](https://taiwan.blocktempo.com/)
